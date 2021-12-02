@@ -10,4 +10,5 @@ Este es un trabajo de api serverless realizado para el taller de programacion av
        - DynamoDB como la base de datos 
        - API Gatewat
 
+![image](https://user-images.githubusercontent.com/69863123/144520882-2c770c75-09d1-449a-9de8-9943c3ce50b9.png)
 
